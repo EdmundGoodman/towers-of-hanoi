@@ -6,7 +6,7 @@ Below is a short write-up of the reasoning behind doing, the approach taken to, 
 ### Introduction
 I attempted this project over an afternoon to try and excersise my ability to take an unknown problem, and produce an algorithmic approach to solving it.
 
-Firstly, I wrote an object to model the towers of hanoi set, which is a wrapper for a 2d list, a list of 3 stacks. It includes methods to print the board, move the peices, and check if the game has been won.
+Firstly, I wrote an object to model the towers of hanoi set, which is a wrapper for a 2d list, a list of 3 stacks. It includes methods to print the board, move the peices, and check if the game has been won "gameboard.py".
 
 ### First steps
 Next, I considered how I would approach solving cases of it for small stacks. "examples.py" contains a function which stores a hard-coded approach to solving stacks of height one to five.
