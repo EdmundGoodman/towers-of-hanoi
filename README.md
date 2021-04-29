@@ -1,5 +1,5 @@
 # towers-of-hanoi
-A set of programs showing the approach I took to solving the towers of hanoi problem (https://en.wikipedia.org/wiki/Tower_of_Hanoi), written as an extra-curricular school project, in Python.
+A set of programs showing the approach I took to solving the [towers of hanoi problem](https://en.wikipedia.org/wiki/Tower_of_Hanoi), written as an extra-curricular school project, in Python.
 
 Below is a short write-up of the reasoning behind doing, the approach taken to, and the conclusions drawn from this excercise
 
